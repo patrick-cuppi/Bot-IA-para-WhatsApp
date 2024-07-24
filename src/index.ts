@@ -19,3 +19,5 @@ async function start(client: Whatsapp) {
         await client.sendText(message.from, response)
     })
 }
+
+//3355
