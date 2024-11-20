@@ -24,6 +24,7 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "openai": "^4.53.0",
+    "redis": "^4.7.0",
     "venom-bot": "^5.1.0"
   }
 }
